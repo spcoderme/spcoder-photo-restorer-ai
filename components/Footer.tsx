@@ -6,7 +6,7 @@ export default function Footer() {
       <div>
         Powered by{' '}
         <a
-          href="https://replicate.com/"
+          href="https://replicate.com/spcoderme"
           target="_blank"
           className="font-bold transition hover:text-black/50"
         >
@@ -22,17 +22,17 @@ export default function Footer() {
         </a>
         . Created by{' '}
         <a
-          href="https://www.twitter.com/nutlope"
+          href="https://github.com/spcoderme"
           target="_blank"
           className="font-bold transition hover:text-black/50"
         >
-          Hassan
+          spcoderme
         </a>{' '}
-        (hassan@hey.com).
+        (spcoderme@gmail.com).
       </div>
       <div className="flex space-x-4 pb-4 sm:pb-0">
         <Link
-          href="https://twitter.com/nutlope"
+          href="https://github.com/spcoderme"
           className="group"
           aria-label="TaxPal on Twitter"
         >
@@ -44,7 +44,7 @@ export default function Footer() {
           </svg>
         </Link>
         <Link
-          href="https://github.com/Nutlope/restorePhotos"
+          href="https://github.com/spcoderme/spcoder-photo-restorer-ai"
           className="group"
           aria-label="TaxPal on GitHub"
         >

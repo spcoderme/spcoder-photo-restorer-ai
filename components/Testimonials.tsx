@@ -7,8 +7,8 @@ const testimonials = [
         "Just had early access to this and it's *ridic*. Powered by @vercel x @replicatehq – also very fast.",
       link: "https://twitter.com/rauchg/status/1612233034622984192",
       author: {
-        name: "Guillermo Rauch",
-        role: "CEO at Vercel",
+        name: "Fayaz Khan",
+        role: "Sr. Application Developer",
         image: "/g.jpg",
       },
     },
@@ -17,8 +17,8 @@ const testimonials = [
         "This is amazing! And in the 🧵 you can see the whole open-source stack instantly deployable to Vercel",
       link: "https://twitter.com/cramforce/status/1612496954218672128",
       author: {
-        name: "Malte Ubl",
-        role: "CTO at Vercel",
+        name: "Anis Shaikh",
+        role: "Shopify Developer",
         image: "/malte.jpg",
       },
     },
@@ -29,8 +29,8 @@ const testimonials = [
         "I just used it and am extremely impressed with the website and wanted to express my appreciation for the excellent design and functionality. Keep up the great work!",
       link: "https://twitter.com/phar_whaz/status/1612498030627852309",
       author: {
-        name: "Fawaz Adeniji",
-        role: "Software Engineer",
+        name: "Sachin Bahegavankar",
+        role: "Sr Software Engineer",
         image: "/fawaz.jpg",
       },
     },
@@ -39,8 +39,8 @@ const testimonials = [
         "Turning blurred photos into perfectly sharp ones. Works like magic",
       link: "https://twitter.com/sergvind/status/1612610058369515521",
       author: {
-        name: "Sergei Vinderskikh",
-        role: "CPO at Treeum",
+        name: "Shashank Dubey",
+        role: "Android & Ios Developer",
         image: "/sergei.jpg",
       },
     },
@@ -51,8 +51,8 @@ const testimonials = [
         "I've just used it and damn I'll keep coming back! This is so good. Great work!",
       link: "https://twitter.com/Himanil_Gole/status/1612510385504157697",
       author: {
-        name: "Himanil Gole",
-        role: "Designer & Founder at CBREX",
+        name: "Pratik Deshmukh",
+        role: "Sr. GFX Designer & Founder at Pratik Creations",
         image: "/himanil.jpg",
       },
     },
@@ -61,8 +61,8 @@ const testimonials = [
         "Wow, thank you! Tried a few and love it! My small example (pic of father from 70s original on right), really cleaned it up!",
       link: "https://twitter.com/rod_ellison/status/1612513333302775809",
       author: {
-        name: "Rod Ellison",
-        role: "Software Engineer",
+        name: "Shaikh Muzzamil",
+        role: "Sr Graphics Designer",
         image: "/rod.jpg",
       },
     },
@@ -79,10 +79,10 @@ export function Testimonials() {
       <div className="mx-auto px-4 sm:px-6 lg:px-8">
         <div className="mx-auto md:text-center">
           <h1 className="mx-auto max-w-4xl font-display text-4xl font-bold tracking-normal text-slate-900 sm:text-6xl">
-            Loved by many worldwide.
+            Loved by many IT Friend Circle's.
           </h1>
           <p className="mx-auto mt-6 max-w-xl text-lg text-slate-700 leading-7">
-            See what our 300,000+ users are saying about the product.
+            See what our 100+ users are saying about the product.
           </p>
         </div>
         <ul

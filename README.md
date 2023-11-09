@@ -1,8 +1,8 @@
-# [RestorePhotos.io](https://restorephotos.io/)
+# [Next-IMG-by-NextVerse.in](https://spcoder-photo-restorer-ai-kx2m.vercel.app/)
 
-This project restores old face photos using AI. Watch the [4 minute explainer video](https://twitter.com/nutlope/status/1614794731396931585) to see how I built this or see the [15 second demo](https://twitter.com/nutlope/status/1612488923716136962).
+This project restores old face photos using AI. Watch the [4 minute explainer video](https://github.com/spcoderme/spcoder-photo-restorer-ai) to see how I built this or see the [15 second demo](https://spcoder-photo-restorer-ai-kx2m.vercel.app/).
 
-[![Face Photo Restorer](./public/screenshot.png)](https://restorephotos.io/)
+[![Face Photo Restorer](./public/screenshot.jpeg)](https://nextverse.in/)
 
 ## How it works
 
